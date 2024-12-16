@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+My+Fourth+Project;+Using+Prophet+to+Predict+Price&center=true&size=30&font=Lato&color=blue&speed=20">
   </a>
 </h1>
+# **Prophet Time Series Price Commodity**
 
 ## 📚 *Introduction*
 This project focuses on analyzing avocado pricing trends using time series analysis and forecasting techniques. Avocado prices exhibit a clear seasonal pattern, with prices typically rising in the summer and falling in the winter. By applying Prophet, a powerful forecasting model, we are able to identify and quantify the seasonal and trend components in the historical price data. This approach allows for a more accurate prediction of future price movements.
